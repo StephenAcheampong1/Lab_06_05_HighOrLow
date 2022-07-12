@@ -26,8 +26,5 @@ public class HighOrLow {
         {
             System.out.println("Right on the Money! The random number was " +val);
         }
-
-
-
     }
 }
